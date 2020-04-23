@@ -1,2 +1,4 @@
-# invie-github
-Repo de practica para curso de Git y Github en Platzi by @LeonidasEsteban
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
